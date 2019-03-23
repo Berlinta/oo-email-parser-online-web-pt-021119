@@ -1,5 +1,8 @@
 class EmailParser
   
+  def Initialize(email)
+end
+  
 end
 
 
